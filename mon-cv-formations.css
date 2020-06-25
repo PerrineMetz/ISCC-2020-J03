@@ -1,12 +1,12 @@
 h1
 {
-background-color: gray;
+background-color: violet;
 }
 
 section
 {
 
-    border-color: gray;
+    border-color: violet;
 padding: 5%;
 margin: 5%;
 border-width: 1px;
@@ -14,5 +14,5 @@ border-style: solid;
 }
 footer
 {
-    background-color: gray;
+    background-color: pink;
 }
