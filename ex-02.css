@@ -37,7 +37,34 @@ p li
 {
     padding: 5%;
 }
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.left {
+    flex-basis: 33%;
+}
+
+.middle {
+    flex-basis: 33%;
+}
+
+.right {
+    flex-basis: 33%;
+}
+
+#identifie
+{
+ color: green;
+}
+#perrine
+{
+    color: darkslategrey
+}
 span
 {
- color: greenyellow;
+color:greenyellow;
+
 }
